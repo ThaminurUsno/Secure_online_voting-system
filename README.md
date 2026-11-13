@@ -1,5 +1,5 @@
 # 🗳️ Secure Online Voting System
-## CSE327 Project | Team NextGen
+## CSE327 Project
 
 **Parliament Election of Bangladesh 2026**
 
