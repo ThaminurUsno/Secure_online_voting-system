@@ -7,6 +7,7 @@
 
 ## 📁 Project Structure
 
+```
 voting_system/
 ├── config/
 │   ├── config.php          # App config (DB, admin credentials, constants)
@@ -55,3 +56,6 @@ voting_system/
 │   └── schema.sql          # Full DB schema + seed data
 ├── index.php               # Login / Register page
 └── logout.php
+```
+
+---
